@@ -12280,7 +12280,7 @@
         },
         s = () => {
           navigator.clipboard.writeText(
-            "0x603bF34f53E52cA7166cEd32C6564878428dB323"
+            "0xcomingsoon"
           ),
             alert("Contract Address copied!");
         },
@@ -12452,7 +12452,7 @@
                 style: c.button,
                 onClick: () =>
                   window.open(
-                    "https://pancakeswap.finance/swap?outputCurrency=0x603bF34f53E52cA7166cEd32C6564878428dB323",
+                    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                     "_blank"
                   ),
                 children: "BUY NOW",
@@ -12512,7 +12512,7 @@
                       style: c.hamburgerButton,
                       onClick: () =>
                         window.open(
-                          "https://pancakeswap.finance/swap?outputCurrency=0x603bF34f53E52cA7166cEd32C6564878428dB323",
+                          "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                           "_blank"
                         ),
                       children: "BUY NOW",
