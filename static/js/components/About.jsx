@@ -106,15 +106,15 @@ const About = () => {
           <h2 style={styles.header}>ABOUT BINANCIAN</h2>
           <p style={styles.text}>
             In the grand digital age, where empires are no longer built with stone and mortar but with code and cryptographic might,
-            there exists a legion known as the Binancians. These are not just traders or investors; they are warriors of the decentralized frontier,
-            bound by their allegiance to the ever-growing dominion of Binance.
+            there exists a legion known as the Grokius Maximus. These are not just traders or investors; they are warriors of the decentralized frontier,
+            bound by their allegiance to the ever-growing dominion of Ethereum.
             <br /><br />
-            The true power of the Binancians lies within the community itself—the traders, the builders, the dreamers.
-            They are the lifeblood of the Binance ecosystem, their faith in the mission manifesting in every trade, every contribution,
+            The true power of the Grokius Maximus lies within the community itself—the traders, the builders, the dreamers.
+            They are the lifeblood of the Ethereum ecosystem, their faith in the mission manifesting in every trade, every contribution,
             and every step toward innovation.
             <br /><br />
             To be a Binancian is to be part of something greater—a movement, a revolution, a relentless march toward financial freedom.
-            They are the warriors who make Binance what it is, from its deepest core to the furthest reaches of its influence.
+            They are the warriors who make Ethereum what it is, from its deepest core to the furthest reaches of its influence.
           </p>
         </div>
 
