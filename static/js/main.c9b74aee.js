@@ -12412,7 +12412,7 @@
             onClick: () => {
               window.scrollTo({ top: 0, behavior: "smooth" }), i(!1);
             },
-            children: "BINANCIAN",
+            children: "GROKIUS",
           }),
           !e &&
             (0, a.jsxs)("ul", {
@@ -12666,7 +12666,7 @@
                 children: [
                   (0, a.jsx)("h2", {
                     style: n.header,
-                    children: "ABOUT BINANCIAN",
+                    children: "ABOUT GROKIUS",
                   }),
                   (0, a.jsxs)("p", {
                     style: n.text,
@@ -12674,10 +12674,10 @@
                       "In the grand digital age, where empires are no longer built with stone and mortar but with code and cryptographic might, there exists a legion known as the Binancians. These are not just traders or investors; they are warriors of the decentralized frontier, bound by their allegiance to the ever-growing dominion of Binance.",
                       (0, a.jsx)("br", {}),
                       (0, a.jsx)("br", {}),
-                      "The true power of the Binancians lies within the community itself\u2014the traders, the builders, the dreamers. They are the lifeblood of the Binance ecosystem, their faith in the mission manifesting in every trade, every contribution, and every step toward innovation.",
+                      "The true power of the Grokius Maximus lies within the community itself\u2014the traders, the builders, the dreamers. They are the lifeblood of the Binance ecosystem, their faith in the mission manifesting in every trade, every contribution, and every step toward innovation.",
                       (0, a.jsx)("br", {}),
                       (0, a.jsx)("br", {}),
-                      "To be a Binancian is to be part of something greater\u2014a movement, a revolution, a relentless march toward financial freedom. They are the warriors who make Binance what it is, from its deepest core to the furthest reaches of its influence.",
+                      "To be a Grokius Maximus is to be part of something greater\u2014a movement, a revolution, a relentless march toward financial freedom. They are the warriors who make Binance what it is, from its deepest core to the furthest reaches of its influence.",
                     ],
                   }),
                 ],
@@ -12866,7 +12866,7 @@
                   e.target.style.transform = "scale(1)";
                 },
                 onClick: () =>
-                  window.open("https://t.me/Binancians_army", "_blank"),
+                  window.open("https://t.me/GrokiusToken", "_blank"),
               }),
               (0, a.jsx)("img", {
                 src: "/images/xbtn.png",
@@ -12882,7 +12882,7 @@
                   e.target.style.transform = "scale(1)";
                 },
                 onClick: () =>
-                  window.open("https://x.com/Binancians_army", "_blank"),
+                  window.open("https://x.com/GrokiusToken", "_blank"),
               }),
               (0, a.jsx)("img", {
                 src: "/images/dexbtn.png",
@@ -12899,7 +12899,7 @@
                 },
                 onClick: () =>
                   window.open(
-                    "https://dexscreener.com/bsc/0x603bF34f53E52cA7166cEd32C6564878428dB323",
+                    "https://dexscreener.com/ethereum/0xcomingsoon",
                     "_blank"
                   ),
               }),
@@ -12908,7 +12908,7 @@
           (0, a.jsx)("div", {
             style: n.disclaimerContainer,
             children:
-              "COPYRIGHT \xa92025 BINANCIAN. LEGAL DISCLAIMER: $BINANCIAN IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $BINANCIAN YOU ARE AGREEING TO THIS DISCLAIMER.",
+              "COPYRIGHT \xa92026 $GROKIUS IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $GROKIUS YOU ARE AGREEING TO THIS DISCLAIMER.",
           }),
         ],
       });

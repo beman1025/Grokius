@@ -82,7 +82,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://t.me/Binancians_army", "_blank")}
+          onClick={() => window.open("https://t.me/GrokiusToken", "_blank")}
         />
 
         {/* X (Twitter) Button */}
@@ -98,7 +98,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://x.com/Binancians_army", "_blank")}
+          onClick={() => window.open("https://x.com/GrokiusToken", "_blank")}
         />
 
         {/* DEX Screener Button */}
@@ -120,8 +120,8 @@ const Connect = () => {
 
       {/* Disclaimer Text */}
       <div style={styles.disclaimerContainer}>
-        COPYRIGHT ©2025 BINANCIAN. LEGAL DISCLAIMER: $BINANCIAN IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. 
-        IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $BINANCIAN YOU ARE AGREEING TO THIS DISCLAIMER.
+        COPYRIGHT ©2026 GROKIUS. LEGAL DISCLAIMER: $GROKIUS IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. 
+        IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $GROKIUS YOU ARE AGREEING TO THIS DISCLAIMER.
       </div>
     </div>
   );
